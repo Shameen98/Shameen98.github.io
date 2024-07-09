@@ -73,7 +73,7 @@ const Work = () => {
 
         {/* to do list */}
         <div className="mt-10 ">
-          <p className="pb-4 font-semibold">TODO List</p>
+          <p className="pb-4 font-semibold">TODO List page</p>
           <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-3 ">
             <img src={Todo_1} className="shadow-xl shadow-[#040c16] " />
             <img src={Todo_2} className="shadow-xl shadow-[#040c16] " />
