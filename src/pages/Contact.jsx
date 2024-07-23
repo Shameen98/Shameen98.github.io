@@ -16,7 +16,7 @@ const Contact = () => {
               Contact
             </p>
             <p className="mt-5 text-gray-300">
-              Submit the form below or shoot me an email
+              Submit the form below or send me an email
             </p>
           </div>
           <input
